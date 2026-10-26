@@ -4,7 +4,7 @@ title: The Pit
 author: Kaileb Atencio
 category: Athletics                  # change to a category from the student guide
 header-image: unm-the-pit.jpg   # the filename of your own image
-header-caption: Stadium Journey, The Pit. Plain text only, no links.
+header-caption: Stadium Journey, The Pit.
 
 # Fill these in later, once your research is under way.
 card-description: Replace this with two sentences that summarize the story your essay tells and why it matters.
